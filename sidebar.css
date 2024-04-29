@@ -1,0 +1,117 @@
+.sidebar {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  top: 67px;
+  background-color: white;
+  width: 90px;
+  border-right-width: 1px;
+  border-right-color: rgb(212, 212, 212);
+  border-right-style: solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+} .home-button {
+border: none;
+background-color: white;
+
+}.home-button:hover {
+background-color: rgb(238, 238, 238);
+
+}.home-icon {
+  width: 30px;
+  height: 55px;
+
+}.home-text {
+font-family: roboto,Arial, Helvetica, sans-serif;
+font-size: 13px;
+
+}.explore-button {
+  border: none;
+  background-color: white;
+
+}.explore-button:hover {
+  background-color: rgb(238, 238, 238);
+
+}.explore-icon {
+height: 55px;
+width: 30px;
+
+} .explore-text {
+  font-family: roboto,Arial, Helvetica, sans-serif;
+  font-size: 13px;
+
+}.subs-button {
+  border: none;
+  background-color: white;
+
+}.subs-button:hover {
+  background-color: rgb(238, 238, 238);
+
+}.subs-icon {
+  height: 55px;
+  width: 30px;
+
+}.subs-text {
+  font-family: roboto,Arial, Helvetica, sans-serif;
+  font-size: 11px;
+
+}.og-button {
+  border: none;
+  background-color: white;
+
+}.og-button:hover {
+  background-color: rgb(238, 238, 238);
+
+}.og-icon {
+  height: 55px;
+  width: 30px;
+
+}.og-text {
+  font-family: roboto,Arial, Helvetica, sans-serif;
+font-size: 13px;
+}.music-button {
+  border: none;
+  background-color: white;
+  
+  }.music-button:hover {
+    background-color: rgb(238, 238, 238);
+  
+  }.music-icon {
+    height: 55px;
+    width: 30px;
+  
+  }.music-text {
+    font-family: roboto,Arial, Helvetica, sans-serif;
+  
+  }.library-button {
+  border: none;
+  background-color: white;
+
+}.library-button:hover {
+  background-color: rgb(238, 238, 238);
+
+}.library-icon {
+  height: 55px;
+width: 30px;
+
+}.library-text{
+  font-family: roboto,Arial, Helvetica, sans-serif
+
+}.short-button {
+border: none;
+background-color: transparent;
+margin-bottom: 50px;
+
+}.short-button:hover {
+  background-color: rgb(238, 238, 238);
+
+}.short-icon {
+  height: 40px;
+  width: 40px;
+
+}.short-text {
+  font-family: roboto,Arial, Helvetica, sans-serif;
+
+}
